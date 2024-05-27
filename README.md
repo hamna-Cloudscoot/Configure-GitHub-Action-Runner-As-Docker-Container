@@ -9,3 +9,6 @@ Complete Repo Name with => UserName/Repo
 
 Runner Name.
 
+
+
+So, Using with Github Access Token and Repo Name to create a Runner REgistration Token.
